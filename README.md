@@ -16,7 +16,6 @@
 
    - 🪐 Atualmente estudando JS e mobile.
 
-  - 🔭 "The powerful play goes on, and you may contribute a verse." - Whitman, Walt.
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
