@@ -11,10 +11,10 @@
 <!-- Presentation -->
 <p>
   Olá, eu sou a Manu! Uma apaixonada por técnologia❣️
-  
-   - 💻 Em busca do meu primeiro estágio na área tec.
 
    - 🪐 Atualmente estudando JS e mobile.
+  
+   - 💻 Em busca do meu primeiro estágio na área tec.
 
 </p>
 
