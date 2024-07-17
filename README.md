@@ -25,7 +25,7 @@
   <summary>🐝Um pouco mais sobre mim.</summary>
 
   - 💬 Tenho 21 anos, sou vestibulanda de computação, e além de apaixonada por técnologia, me descobri uma verdadeira amante de línguas.
-  - ☕ Amo livros, conteúdos de história e podcasts. E por favor, que seja acompanhado de um bom café!❤️
+  - ☕ Amo livros, amo cinema e amo aprender tudo que o universo possa proporcionar. E por favor, que seja acompanhado de um bom café!❤️
 
 </details>
 
