@@ -10,11 +10,6 @@
 
 <!-- Presentation -->
 <p>
-  Olá, eu sou a Manu! Uma apaixonada por técnologia❣️
-
-   - 🪐 Atualmente estudando JS e mobile.
-  
-   - 💻 Em busca do meu primeiro estágio na área tec.
 
 </p>
 
@@ -22,11 +17,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>🐝Um pouco mais sobre mim.</summary>
-
-  - 💬 Tenho 21 anos, sou vestibulanda de computação, e além de apaixonada por técnologia, me descobri uma verdadeira amante de línguas.
-  - ☕ Amo livros, amo cinema e amo aprender tudo que o universo possa proporcionar. E por favor, que seja acompanhado de um bom café!❤️
-
+  <summary>🐝
 </details>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
