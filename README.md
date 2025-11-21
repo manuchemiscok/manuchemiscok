@@ -1,9 +1,9 @@
 
 <!--título-->
-<h1 align="center">HELLO WORLD</h1>
-<p align="center">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50" height="auto" />
-</p>
+</h1>
+
 
 
 
